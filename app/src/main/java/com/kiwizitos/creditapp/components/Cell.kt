@@ -1,4 +1,7 @@
 package com.kiwizitos.creditapp.components
 
-class Cell {
+import androidx.compose.runtime.Composable
+
+@Composable
+fun Cell() {
 }
